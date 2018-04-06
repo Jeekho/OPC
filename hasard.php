@@ -5,8 +5,6 @@
 	<title>Document</title>
 </head>
 <body>
-	<div class="jesaispas">
-		J'ai pas envi de coder juste pour ça
-	</div>
+	<div class="moinonplus">Non, il n'y a pas de code ici, c'était une blague</div>
 </body>
 </html>
